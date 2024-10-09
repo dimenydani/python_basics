@@ -1,5 +1,5 @@
-a: bool = True
-b: bool = False
+# a: bool = True
+# b: bool = False
 
 # Learn if statement
 
